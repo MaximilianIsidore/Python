@@ -1,0 +1,8 @@
+{
+    "name": "eric",
+    "age": 20,
+    "degree": [
+        "Doctor",
+        "Engineer"
+    ]
+}
